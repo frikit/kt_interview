@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test
 internal class MainKtTest {
 
     @Test
-    fun helloWorldReturnsPersonalizedMessage() {
+    fun testHelloWorldReturnsPersonalizedMessage() {
         println("1")
     }
 }
